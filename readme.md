@@ -6,4 +6,4 @@ What is the public transportation footprint look like in Salt Lake City? How man
 Give it a try by clicking [here](https://opensaltlake.github.io/uta/)
 
 ## Screenshot of web app
-![alt text](https://cloud.githubusercontent.com/assets/796795/14124849/e8637e27785c.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/OpenSaltLake/uta/master/screenshot.jpg "Logo Title Text 1")
